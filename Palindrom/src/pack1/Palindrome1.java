@@ -1,10 +1,11 @@
+package pack1;
 
-public class Palindrome {
+public class Palindrome1 {
 
 	//Test the push to the remote
 	public static void main(String[] args) {
 		
-		Palindrome pd = new Palindrome();
+		Palindrome1 pd = new Palindrome1();
 		System.out.println(pd.isPalindrome("mama"));
 
 	}
